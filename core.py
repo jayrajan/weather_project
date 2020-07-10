@@ -29,10 +29,11 @@ plt.title ('Weather readings of cities in country: SZ')
 plt.xlabel('City')
 plt.xticks(rotation='vertical', fontsize=8)
 plt.ylabel('Temp')
+
+# Save plot as png
+plt.savefig('weather_readings_cities_SZ.png', bbox_inches='tight')
 plt.show()
 
-
-# Output file - 
    
    
    
