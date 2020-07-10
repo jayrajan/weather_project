@@ -28,3 +28,6 @@ Pclass_submission.csv
 #JSON file - fileszie is large
 weather.json
 weather1.json
+
+# png file
+weather_readings_cities_SZ.png
